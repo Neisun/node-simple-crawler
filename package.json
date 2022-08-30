@@ -1,0 +1,27 @@
+{
+  "name": "simple-crawler",
+  "version": "1.0.0",
+  "description": "一个基于node与pupeteer实现的简易爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neisun/node-simple-crawler.git"
+  },
+  "keywords": [
+    "node",
+    "crawler",
+    "pupeteer"
+  ],
+  "author": "hunaisong@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neisun/node-simple-crawler/issues"
+  },
+  "homepage": "https://github.com/Neisun/node-simple-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^17.0.0"
+  }
+}
